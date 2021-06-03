@@ -1,0 +1,50 @@
+1	Sherlock Holmes: juego de sombras
+2	Sin salida
+3	The Mechanic
+4	TEMPLARIO
+5	THE GREEN HORNET
+6	Centurion
+7	Vengeance
+8	Terminator
+9	Men in Black International
+10	Hellboy
+11	Megalodón
+12	Tomb Raider
+13	Han Solo: Una historia de Star Wars
+14	Venom
+15	Tiger está vivo
+16	Black Panther
+17	Los vengadores
+18	Los vengadores: Endgame
+19	Los vengadores: Infinity war
+20	Aquaman
+21	Thor: Ragnarok
+22	Logan
+23	Los Angeles de Charlie
+24	Babylon
+25	Cara a cara
+26	5 días para morir
+27	Contacto sangriento
+28	Daño colateral
+29	DEATH PROOF
+30	Descenso
+31	Duro de matar
+32	FAST AND FURIOUS 5
+33	FAST AND FURIOUS 6
+34	FAST AND FURIOUS 7
+35	Hitman: agente 47
+36	Imparable
+37	machete
+38	MAD MAX: SALVAJES DE AUTOPISTA
+39	MATRIX RELOADED
+40	POMPEYA
+41	RAMBO: LAST BLOOD
+42	Romeo debe morir
+43	Sabotaje
+44	Safe
+45	El triángulo de las bermudas
+46	El último desafío
+47	Sr. y Sra. Smith
+48	X-men 2
+49	Reacción en cadena
+50	G.I. Joe
